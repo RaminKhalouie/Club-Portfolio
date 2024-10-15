@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+
+    &:visited {
+        color: inherit;
+    }
+}
+
+ul {
+    list-style: none;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
