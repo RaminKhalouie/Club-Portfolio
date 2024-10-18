@@ -13,7 +13,6 @@
 
 -🔧 Technologies Used - Html , css 
 
-- Hooks Used : useState 
 
 - Role - Frontend
 
